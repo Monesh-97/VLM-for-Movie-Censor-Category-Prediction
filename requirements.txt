@@ -1,0 +1,11 @@
+pandas
+openpyxl
+opencv-python-headless
+torch
+torchvision
+transformers>=4.40.0
+accelerate
+datasets
+peft
+bitsandbytes
+streamlit

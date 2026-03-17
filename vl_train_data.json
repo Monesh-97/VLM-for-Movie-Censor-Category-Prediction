@@ -1,0 +1,86 @@
+[
+    {
+        "id": "movie_0",
+        "video": "Dataset\\summary_videos\\dhurandhar_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ]
+    },
+    {
+        "id": "movie_1",
+        "video": "Dataset\\summary_videos\\lokha_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "U/A"
+            }
+        ]
+    },
+    {
+        "id": "movie_2",
+        "video": "Dataset\\summary_videos\\vaa_vathiyar_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "U/A"
+            }
+        ]
+    },
+    {
+        "id": "movie_3",
+        "video": "Dataset\\summary_videos\\meiyazhagan_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "U"
+            }
+        ]
+    },
+    {
+        "id": "movie_4",
+        "video": "Dataset\\summary_videos\\with_love_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "U"
+            }
+        ]
+    },
+    {
+        "id": "movie_5",
+        "video": "Dataset\\summary_videos\\dude_summary.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video>\nAnalyze the context, themes, and content of this movie summary. Based on your understanding, what is the appropriate CBFC (India) movie certificate? The expected classes are ['U', 'U/A', 'A']. Output only the certificate."
+            },
+            {
+                "from": "gpt",
+                "value": "U/A"
+            }
+        ]
+    }
+]
